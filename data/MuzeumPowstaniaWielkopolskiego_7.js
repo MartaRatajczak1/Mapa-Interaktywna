@@ -1,0 +1,1 @@
+var json_MuzeumPowstaniaWielkopolskiego_7 = {"type":"FeatureCollection","name":"MuzeumPowstaniaWielkopolskiego_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nazwa":"Muzeum Powstania Wielkopolskiego 1918-1919","X":52.40827,"Y":16.93315},"geometry":{"type":"Point","coordinates":[16.9331544,52.4082734]}}]}
